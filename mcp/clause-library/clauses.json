@@ -1,0 +1,50 @@
+[
+  {
+    "topic": "liability",
+    "title": "Mutual liability cap",
+    "text": "Each party's total liability under this Agreement shall not exceed the fees paid or payable in the twelve (12) months preceding the event giving rise to the claim. This cap does not apply to breaches of confidentiality or to liability that cannot be limited by law.",
+    "section_hint": "Liability"
+  },
+  {
+    "topic": "notice",
+    "title": "Termination for convenience",
+    "text": "Either party may terminate this Agreement for convenience on thirty (30) days' written notice.",
+    "section_hint": "Term and termination"
+  },
+  {
+    "topic": "renewal",
+    "title": "No automatic renewal",
+    "text": "This Agreement expires at the end of the Initial Term unless the parties agree in writing to extend it.",
+    "section_hint": "Term"
+  },
+  {
+    "topic": "governing law",
+    "title": "Governing law and venue",
+    "text": "This Agreement is governed by the laws of the Federal Republic of Germany. The courts of Hamburg have exclusive jurisdiction.",
+    "section_hint": "Governing law"
+  },
+  {
+    "topic": "ip",
+    "title": "Ownership of data and work",
+    "text": "Each party retains all rights in its pre-existing materials. Customer Data remains the property of Customer, and Supplier receives only the licence needed to provide the Services during the term.",
+    "section_hint": "Intellectual property"
+  },
+  {
+    "topic": "confidentiality",
+    "title": "Confidentiality",
+    "text": "Each party shall keep the other's Confidential Information confidential, use it only for the purposes of this Agreement, and protect it with at least reasonable care.",
+    "section_hint": "Confidentiality"
+  },
+  {
+    "topic": "data",
+    "title": "Data protection",
+    "text": "Personal data is processed only within the European Economic Area, only on Customer's documented instructions, and under a Data Processing Agreement that forms part of this Agreement.",
+    "section_hint": "Data protection"
+  },
+  {
+    "topic": "termination",
+    "title": "Termination for breach",
+    "text": "Either party may terminate this Agreement if the other commits a material breach and fails to cure it within thirty (30) days of written notice.",
+    "section_hint": "Term and termination"
+  }
+]
